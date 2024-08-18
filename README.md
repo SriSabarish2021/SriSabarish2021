@@ -57,7 +57,7 @@
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <div align=center>
-  <img width=390 src="https://github-readme-stats.vercel.app/api?username=SriSabarish2021&show_icons=true&theme=dracula&border_radius=20"/>
+  <img width=390 src="https://github-readme-stats.vercel.app/api?username=SriSabarish2021&show_icons=true&theme=dracula&border_radius=20&rank_icon=github"/>
   <img width=390 src="https://streak-stats.demolab.com?user=SriSabarish2021&theme=radical&border_radius=20" alt="GitHub Streak" alt="readme stats" />
   <br/>
   <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SriSabarish2021&layout=compact&hide=java,python&langs_count=5&theme=tokyonight&border_radius=10&size_weight=0.5&count_weight=0.5" alt="top langs" />
