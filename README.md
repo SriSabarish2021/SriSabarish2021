@@ -60,7 +60,7 @@
   <img width=390 src="https://github-readme-stats.vercel.app/api?username=SriSabarish2021&show_icons=true&theme=tokyonight"/>
   <img width=390 src="https://streak-stats.demolab.com?user=SriSabarish2021&theme=radical&border_radius=20" alt="GitHub Streak" alt="readme stats" />
   <br/>
-  <img width=325 align="center" src="https://github-readme-stats.vercel.app/api?username=SriSabarish2021" alt="top langs" />
+  <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SriSabarish2021&layout=compact" alt="top langs" />
  
 </div>
 
