@@ -57,7 +57,7 @@
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <div align=center>
-  <img width=390 src="https://github-readme-streak-SriSabarish2021.vercel.app/?user=salesp07&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
+  <img width=390 src="https://github-readme-stats-SriSabarish2021.vercel.app/api?username=SriSabarish2021&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" alt="streak stats"/>
   <img width=390 src="https://streak-stats.demolab.com?user=SriSabarish2021&theme=radical&border_radius=20" alt="GitHub Streak" alt="readme stats" />
   <br/>
  
