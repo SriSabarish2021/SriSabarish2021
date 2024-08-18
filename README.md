@@ -13,7 +13,7 @@
  
  🌱 I’m currently learning **Front-end Frameworks**
 
-💬 Ask me about **JS, TS, HTML, CSS... or anything [here](https://github.com/salesp07/salesp07/issues)**
+💬 Ask me about **JS, TS, HTML, CSS... or anything [here](https://srisabarish1512.netlify.app/)**
 
 ⚡ Motive fact **Look ahead of your dreams **
 
