@@ -21,7 +21,7 @@
  </div>
  
 <div align="center"> 
-  <a href="mailto:srisabarish1512@gmail.com">
+  <a href="https://forms.gle/YEWLJUXtugP5grEcA">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
   <a href="www.linkedin.com/in/sri-sabarish-b922222a5" target="_blank">
