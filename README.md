@@ -4,7 +4,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Sri+Sabarish!;" />
 </h1>
 
-<h3 align="center">A passionate Front-end developer from India</h3>
+<h3 align="center">A dynamic and creative front-end developer from India</h3>
 
 <br/>
 
@@ -12,11 +12,11 @@
  
  🔭 I’m currently working on **Own Projects**
  
- 🌱 I’m currently learning **Front-end Frameworks**
+ 🌱 I’m currently learning **Front-end Advances**
 
-💬 Ask me about **JS, TS, HTML, CSS... or anything [here](https://srisabarish1512.netlify.app/)**
+💬 Ask me about **JS, TS, HTML, CSS, R... or anything [here](https://srisabarish1512.netlify.app/)**
 
-⚡ Motive fact **Look ahead of your dreams **
+⚡ Motive fact **Create an vision of your Dreams**
 
  </div>
  
