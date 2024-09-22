@@ -38,7 +38,7 @@
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=react,html,css,vscode,github,git,r" />
-    <img src="https://skillicons.dev/icons?i=javascript,typescript,nextjs" /><br>
+    <img src="https://skillicons.dev/icons?i=javascript,typescript,nextjs,Heroku CLI" /><br>
 </div>
 
 <br/>
