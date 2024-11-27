@@ -14,7 +14,7 @@
  
  🌱 I’m currently learning **Front-end Advances**
 
-💬 Ask me about **JS, TS, HTML, CSS, R... or anything [here](https://srisabarish1512.netlify.app/)**
+💬 Ask me about **JS, TS, HTML, CSS, R, React... or anything [here](https://srisabarish1512.netlify.app/)**
 
 ⚡ Motive fact **Create an vision of your Dreams**
 
