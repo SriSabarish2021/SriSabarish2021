@@ -37,7 +37,7 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=react,html,css,vscode,github,git,r,react,tanstackquerry" />
+    <img src="https://skillicons.dev/icons?i=react,html,css,vscode,github,git,r,react,tanstack" />
     <img src="https://skillicons.dev/icons?i=javascript,typescript,nextjs,Heroku CLI" /><br>
 </div>
 
