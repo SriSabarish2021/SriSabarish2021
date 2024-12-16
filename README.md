@@ -37,8 +37,8 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=react,html,css,vscode,github,git,r,react,gsap" />
-    <img src="https://skillicons.dev/icons?i=javascript,typescript,nextjs,Heroku CLI" /><br>
+    <img src="https://skillicons.dev/icons?i=react,html,css,vscode,github,git,r,react,GSAP" />
+    <img src="https://skillicons.dev/icons?i=javascript,typescript,nextjs" /><br>
 </div>
 
 <br/>
