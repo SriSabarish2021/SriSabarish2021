@@ -10,9 +10,9 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **Own Projects**
+ 🔭 I’m currently working on **Own Projects- Full Stack**
  
- 🌱 I’m currently learning **Front-end Advances**
+ 🌱 I’m currently learning **Data Analytics**
 
 💬 Ask me about **JS, TS, HTML, CSS, R, React... or anything [here](https://srisabarish1512.netlify.app/)**
 
